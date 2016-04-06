@@ -1,2 +1,2 @@
 # Glitched-GridHelper
-No more worries about having mistakes due to border blocks!
+## No more worries about having mistakes due to border blocks!
